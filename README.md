@@ -1,1 +1,0 @@
-# Extract-Data-From-a-MySQL-Database
